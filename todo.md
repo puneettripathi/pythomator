@@ -1,4 +1,4 @@
-## Pythomator is basically a tool written totally in Python
+## Pythomator - Python Automator
 ### This file will be base for all things we create for pythomator 
 Below are the functionalities it will have -
 * a process that monitors a filesystem
